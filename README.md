@@ -3,7 +3,7 @@ Deployed in to firebase
 A Web App for a collge level Notice Board Management System.
 To be used by a college of 2000 students.
 
-Will be used starting from the month of August, 2019 in GBPIET Ghurdauri.
+Will be used starting from the month of Septrember, 2019 in GBPIET Ghurdauri.
 
 Features :
 
